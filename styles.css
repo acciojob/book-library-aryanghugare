@@ -1,1 +1,43 @@
 /*  your css code here. If applicable */
+body {
+	background-color : #f8f8f8 ;
+}
+
+.book-library {
+	background-color : #ffffff ;
+	height : 100vh ;
+}
+
+.book {
+	display : flex ;
+	flex-direction : column ;
+	
+	margin : 20px 
+	
+}
+
+.head {
+	font-size : 25px ;
+	display : flex ;
+	justify-content : center ;
+	padding : 15px ;
+	margin : 20px ;
+}
+
+.Author {
+	color : #777777
+}
+
+.book img {
+	width : 50% ;
+	height : 50% ; 
+	margin : auto ;
+}
+
+.price {
+	display : flex ;
+	justify-content : center ;
+	background-color : green ;
+	padding : 10px ;
+	border-radius : 5px ;
+}
