@@ -37,7 +37,7 @@ body {
 .price {
 	display : flex ;
 	justify-content : center ;
-	background-color : green ;
+	background-color : #2ecc71 ;
 	padding : 10px ;
 	border-radius : 5px ;
 }
